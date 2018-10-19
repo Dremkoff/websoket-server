@@ -3,7 +3,6 @@
 	"version": "0.1.0",
 	"private": false,
 	"scripts": {
-		// "start": "concurrently --kill-others \"parcel index.html\" \"node server\\index.js\""
 		"start": "parcel index.html"
 	},
 	"dependencies": {
