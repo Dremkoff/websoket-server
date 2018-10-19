@@ -9,6 +9,10 @@
 # production
 /build
 
+# parcel cache
+/.cache
+/dist
+
 # misc
 .DS_Store
 .env.local
