@@ -1,0 +1,8 @@
+{
+	"name": "websoket-server",
+	"version": "0.1.0",
+	"private": false,
+	"dependencies": {
+		"socket.io": "^2.1.1"
+	}
+}
